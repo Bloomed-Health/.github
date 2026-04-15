@@ -1,4 +1,4 @@
-<h3 align="center">Open-source research, tools, and agentic AI for unsolved problems in health</h3>
+<h3 align="center">Open-source research, and tools for Underresearched Issues in Health</h3>
 
 ---
 
