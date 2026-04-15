@@ -12,17 +12,17 @@ Everything we build is open source. If it helps one researcher ask a better ques
 
 ### Genomics & cancer predisposition
 
-**[POLE-Frameshift](https://github.com/Bloomed-Health/POLE-Frameshift)** — Research framework for POLE c.138del (p.Leu46Phefs\*8), an ultra-rare frameshift variant that truncates the POLE catalytic subunit at residue 54 yet produces a clinical phenotype indistinguishable from classical PPAP (TMB >100 mut/Mb). Five candidate mechanistic models, prioritized experimental approaches, therapeutic strategy, and full literature synthesis. Resolving this paradox could restructure how POLE truncation variants are classified across clinical genetics.
+**[POLE Frameshift](https://github.com/Bloomed-Health/POLE-Frameshift)** — Research framework for POLE c.138del (p.Leu46Phefs\*8), an ultra-rare frameshift variant that truncates the POLE catalytic subunit at residue 54 yet produces a clinical phenotype indistinguishable from classical PPAP (TMB >100 mut/Mb). Five candidate mechanistic models, prioritized experimental approaches, therapeutic strategy, and full literature synthesis. Resolving this paradox could restructure how POLE truncation variants are classified across clinical genetics.
 
-**[cancer-predisposition-variant-analyst](https://github.com/Bloomed-Health/cancer-predisposition-variant-analyst)** — Claude Code skill for ultra-rare variant interpretation in cancer predisposition genes. Resolves genotype–phenotype paradoxes, assembles ACMG/ClinGen evidence, and maps mechanism to therapy. 72 curated references (2024–2026). Includes a worked example: POLE truncation producing PPAP against consensus.
+**[Cancer Predisposition Variant Analyst](https://github.com/Bloomed-Health/cancer-predisposition-variant-analyst)** — Claude Code skill for ultra-rare variant interpretation in cancer predisposition genes. Resolves genotype–phenotype paradoxes, assembles ACMG/ClinGen evidence, and maps mechanism to therapy. 72 curated references (2024–2026). Includes a worked example: POLE truncation producing PPAP against consensus.
 
 ### Gynecologic health
 
-**[ROG-Estimator](https://github.com/bloo-berries/ROG-Estimator)** — Evidence-based web application for estimating growth patterns of benign gynecologic masses using validated clinical models and current research data. Designed for patients and clinicians navigating conditions like fibroids and endometriomas where growth trajectory directly informs treatment decisions.
+**[Rate of Growth Estimator](https://github.com/bloo-berries/ROG-Estimator)** — Evidence-based web application for estimating growth patterns of benign gynecologic masses using validated clinical models and current research data. Designed for patients and clinicians navigating conditions like fibroids and endometriomas where growth trajectory directly informs treatment decisions.
 
 ### Stroke & vision
 
-**[blindness-visualizer](https://github.com/bloo-berries/blindness-visualizer)** — A comprehensive tool that interprets multiple visual impairments as layered visual overlays, making the subjective experience of vision loss communicable to clinicians, caregivers, and the general public. *(In progress.)*
+**[Blindness Visualizer](https://github.com/bloo-berries/blindness-visualizer)** — A comprehensive tool that interprets multiple visual impairments as layered visual overlays, making the subjective experience of vision loss communicable to clinicians, caregivers, and the general public. *(In progress.)*
 
 ### Coming soon
 
