@@ -1,18 +1,10 @@
-<p align="center">
-  <img src="bloomed-health-logo.svg" alt="Bloomed Health" width="240"/>
-</p>
-
 <h3 align="center">Open-source research, tools, and agentic AI for unsolved problems in health</h3>
-
-<p align="center">
-  <em>The bloom forms around the break.</em>
-</p>
 
 ---
 
-Some of the most important questions in medicine aren't being asked — because they fall between disciplines, affect too few patients, or challenge the models we already have. Bloomed Health exists to build what's missing: open research frameworks for mechanistic paradoxes, clinical tools for conditions that lack them, and agentic AI that makes expert-level reasoning accessible to anyone who needs it.
+Some of the most important questions in medicine aren't being asked because they fall between disciplines, affect too few patients, or challenge the models we already have. Bloomed Health exists to build what's missing: open research frameworks for mechanistic paradoxes, clinical tools for conditions that lack them, and agentic AI that makes expert-level reasoning accessible to anyone who needs it.
 
-We work across genomics, cancer predisposition, endometriosis and adenomyosis, stroke and vision loss, comparative oncology, and chronic illness — wherever the gap between what patients experience and what the research infrastructure provides is widest.
+We work across genomics, cancer predisposition, endometriosis and adenomyosis, stroke and vision loss, comparative oncology, and chronic illness, wherever the gap between what patients experience and what the research infrastructure provides is widest.
 
 Everything we build is open source. If it helps one researcher ask a better question or one patient understand what's happening to them, it was worth making.
 
