@@ -26,7 +26,7 @@ Everything we build is open source. If it helps one researcher ask a better ques
 
 ### Coming soon
 
-- Comparative oncology — cross-species cancer biology and shared predisposition pathways
+- Comparative oncology — cancer biology and shared predisposition pathways
 - Agentic research tools — AI workflows for literature synthesis, variant interpretation, and experimental design
 - Endometriosis/adenomyosis research frameworks
 
