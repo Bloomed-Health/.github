@@ -1,3 +1,5 @@
+<img width="1491" height="256" alt="bloomed-health-lockup-horizontal-dark-2x" src="https://github.com/user-attachments/assets/763a2f40-653f-4abe-a9b9-1872f0138838" />
+
 <h3 align="center">Open-source research, and tools for Underresearched Issues in Health</h3>
 
 ---
