@@ -12,7 +12,7 @@ Everything we build is open source. If it helps one researcher ask a better ques
 
 ### Genomics & cancer predisposition
 
-**[POLE Frameshift](https://github.com/Bloomed-Health/POLE-Frameshift)** — Hypothesis-generating framework for POLE c.138del (p.Leu46Phefs*8): ultra-rare germline frameshift truncating the catalytic subunit at residue 54 in patient w/ multi-system features: progressive polyposis, cancers, Endometriosis; clinically consistent w/ PPAP (despite frameshift variant). 7 mechanistic models; w/ prioritized experiments anchored by mutational signature analysis & clinical WGS, & therapeutic strategy adapted for comorbidities. Both causal/incidental outcomes would advance understanding of POLE biology; Findings could inform how truncating POLE variants are evaluated in clinical genetics.
+**[POLE Frameshift](https://github.com/Bloomed-Health/POLE-Frameshift)** — Open research framework investigating POLE c.138del (p.Leu46Phefs*8): a germline frameshift variant in a patient with progressive adenomatous polyposis.
 
 **[3D POLE Modeler](https://bloomed-health.github.io/3D-POLE-Modeler/)** - Interactive 3D structural viewer for DNA Polymerase epsilon (Pol e) catalytic subunit & Mutations.
 
